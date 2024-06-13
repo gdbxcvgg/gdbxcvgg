@@ -45,12 +45,12 @@
     <table border="0" align="center">
         <tr border="0">
             <td width="50%" align="center">
-                <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=HarrtyXX&theme=dark&show_icons=true&count_private=true&hide_border=true&hide_title=true&" />
+                <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=gdbxcvgg&theme=dark&show_icons=true&count_private=true&hide_border=true&hide_title=true&" />
                 <br>
-                <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=HarrtyXX&theme=dark&hide_border=true" alt="GitHub Streak" />
+                <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=gdbxcvgg&theme=dark&hide_border=true" alt="GitHub Streak" />
             </td>
             <td width="50%" align="center">
-                <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HarrtyXX&show_icons=true&theme=dark&locale=en&hide_border=true" />
+                <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gdbxcvgg&show_icons=true&theme=dark&locale=en&hide_border=true" />
             </td>
         </tr>
     </table>
@@ -62,4 +62,4 @@
 
 </br>
 
-𝗟𝗮𝘀𝘁 𝗘𝗱𝗶𝘁𝗲𝗱 𝗼𝗻: 𝟮𝟵/𝟭𝟮/𝟮𝟬𝟮𝟯
+𝗟𝗮𝘀𝘁 𝗘𝗱𝗶𝘁𝗲𝗱 𝗼𝗻: 𝟭𝟰/𝟬𝟲/𝟮𝟬𝟮𝟰
