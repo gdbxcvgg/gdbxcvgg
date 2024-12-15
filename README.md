@@ -26,7 +26,7 @@
 <h1 align="center">𝗖𝗼𝗻𝘁𝗮𝗰𝘁</h1>
 <div align="center">
 
-<a href="https://www.github.com/GDBXCVGG"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="48" height="48" /></a>
+<a href="https://www.github.com/gdbxcvgg"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="48" height="48" /></a>
     
 </div>
 
